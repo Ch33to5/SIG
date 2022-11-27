@@ -1,7 +1,5 @@
 package com.ahmed.model;
 
-import static com.sun.org.apache.xalan.internal.lib.ExsltDatetime.date;
-
 
 public class Item {
     private String item;
